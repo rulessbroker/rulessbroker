@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Developer**
 
-- 💬 Ask me about **Java, Springboot, GitHub, MySQL**
+- 💬 Ask me about **Java, Springboot, Angular, GitHub, MySQL, Mongo-DB, HTML, CSS, Java-Script**
 
 - 📫 How to reach me **rahulbhosale2563@gmail.com**
 
